@@ -1,0 +1,33 @@
+{
+  "name": "useistorystate",
+  "version": "1.0.0",
+  "description": "undo/redo functionality with React Hooks",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanjsdev/useHistoryState.git"
+  },
+  "keywords": [
+    "react",
+    "undo",
+    "redo",
+    "history",
+    "hook"
+  ],
+  "author": "Roman Kuzmichev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romanjsdev/useHistoryState/issues"
+  },
+  "homepage": "https://github.com/romanjsdev/useHistoryState#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.11"
+  }
+}
